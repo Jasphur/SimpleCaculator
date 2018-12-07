@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasperRoekenCalculatorYC Uitgebreid", "JasperRoekenCalculator2Simpel\JasperRoekenCalculatorYC Uitgebreid.csproj", "{61C4B360-B37A-4D51-B9F5-5F17422376BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61C4B360-B37A-4D51-B9F5-5F17422376BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C4B360-B37A-4D51-B9F5-5F17422376BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C4B360-B37A-4D51-B9F5-5F17422376BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C4B360-B37A-4D51-B9F5-5F17422376BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C8E7C7-5DF2-4C4C-993A-0D5D1C37B57B}
+	EndGlobalSection
+EndGlobal
