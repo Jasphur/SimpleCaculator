@@ -1,5 +1,4 @@
 # JasperRoekenCalculator
-Young Capital kennisopdracht C# .Net traineeship
 
 ## Oorspronkelijke vraag:
 * Maak een rekenmachine en toon daarmee je kennis over C#
