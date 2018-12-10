@@ -52,7 +52,7 @@ namespace JasperRoekenCalculator2Simpel
             Button btn = (Button)sender;
 
             // Zorgen dat er geen tweede "," kan worden toegevoegd
-            if (deciCount == 0)
+            if (deciCount == 0 && !result.Text.Contains(","))
             {
                 deciCount++;
                 result.Text += btn.Text;

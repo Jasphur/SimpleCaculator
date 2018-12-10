@@ -8,3 +8,13 @@ C:\Projects\JasperRoekenCalculatorYC Uitgebreid\JasperRoekenCalculator2Simpel\ob
 C:\Projects\JasperRoekenCalculatorYC Uitgebreid\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculator2Simpel.exe
 C:\Projects\JasperRoekenCalculatorYC Uitgebreid\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculator2Simpel.pdb
 C:\Projects\JasperRoekenCalculatorYC Uitgebreid\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculatorYC Uitgebreid.csprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\bin\Debug\JasperRoekenCalculator2Simpel.exe.config
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\bin\Debug\JasperRoekenCalculator2Simpel.exe
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\bin\Debug\JasperRoekenCalculator2Simpel.pdb
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculatorYC Uitgebreid.csprojAssemblyReference.cache
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculator2Simpel.Form1.resources
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculator2Simpel.Properties.Resources.resources
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculatorYC Uitgebreid.csproj.GenerateResource.cache
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculatorYC Uitgebreid.csproj.CoreCompileInputs.cache
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculator2Simpel.exe
+C:\Users\Jasper\source\repos\SimpleCaculator\JasperRoekenCalculator2Simpel\obj\Debug\JasperRoekenCalculator2Simpel.pdb
